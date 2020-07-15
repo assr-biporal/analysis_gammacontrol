@@ -1,0 +1,246 @@
+
+gamma_control2
+2020-06-29	15:46:17
+
+Participant	Session	Trial	Event	Participant		Pressed Or	X	Y	Error	Reaction
+Name	ID	No.	Name	Response	Key	Released	Position	Position	Code	Time	Trial Answered
+		1	click_train_40Hz-1						NR	0	
+		1	click_train_40Hz-2						NR	0	
+		1	click_train_40Hz-3						NR	0	
+		1	click_train_40Hz-4						NR	0	
+		1	click_train_40Hz-5						NR	0	
+		1	response		Left	Pressed	137	245	C	8530	
+		10	click_train_40Hz-1						NR	0	
+		10	click_train_40Hz-2						NR	0	
+		10	click_train_40Hz-3						NR	0	
+		10	click_train_40Hz-4						NR	0	
+		10	click_train_42Hz-5						NR	0	
+		10	response		Right	Pressed	137	245	C	8150	
+		9	click_train_40Hz-1						NR	0	
+		9	click_train_40Hz-2						NR	0	
+		9	click_train_40Hz-3						NR	0	
+		9	click_train_42Hz-4						NR	0	
+		9	click_train_40Hz-5						NR	0	
+		9	response		Right	Pressed	137	245	C	8181	
+		4	click_train_40Hz-1						NR	0	
+		4	click_train_40Hz-2						NR	0	
+		4	click_train_40Hz-3						NR	0	
+		4	click_train_40Hz-4						NR	0	
+		4	click_train_40Hz-5						NR	0	
+		4	response		Left	Pressed	137	245	C	8148	
+		7	click_train_40Hz-1						NR	0	
+		7	click_train_42Hz-2						NR	0	
+		7	click_train_40Hz-3						NR	0	
+		7	click_train_40Hz-4						NR	0	
+		7	click_train_40Hz-5						NR	0	
+		7	response		Right	Pressed	137	245	C	8277	
+		3	click_train_40Hz-1						NR	0	
+		3	click_train_40Hz-2						NR	0	
+		3	click_train_40Hz-3						NR	0	
+		3	click_train_40Hz-4						NR	0	
+		3	click_train_40Hz-5						NR	0	
+		3	response		Left	Pressed	137	245	C	8318	
+		6	click_train_42Hz-1						NR	0	
+		6	click_train_40Hz-2						NR	0	
+		6	click_train_40Hz-3						NR	0	
+		6	click_train_40Hz-4						NR	0	
+		6	click_train_40Hz-5						NR	0	
+		6	response		Right	Pressed	137	245	C	8934	
+		5	click_train_40Hz-1						NR	0	
+		5	click_train_40Hz-2						NR	0	
+		5	click_train_40Hz-3						NR	0	
+		5	click_train_40Hz-4						NR	0	
+		5	click_train_40Hz-5						NR	0	
+		5	response		Left	Pressed	137	245	C	8214	
+		2	click_train_40Hz-1						NR	0	
+		2	click_train_40Hz-2						NR	0	
+		2	click_train_40Hz-3						NR	0	
+		2	click_train_40Hz-4						NR	0	
+		2	click_train_40Hz-5						NR	0	
+		2	response		Left	Pressed	137	245	C	8109	
+		8	click_train_40Hz-1						NR	0	
+		8	click_train_40Hz-2						NR	0	
+		8	click_train_42Hz-3						NR	0	
+		8	click_train_40Hz-4						NR	0	
+		8	click_train_40Hz-5						NR	0	
+		8	response		Right	Pressed	137	245	C	8173	
+		7	click_train_40Hz-1						NR	0	
+		7	click_train_42Hz-2						NR	0	
+		7	click_train_40Hz-3						NR	0	
+		7	click_train_40Hz-4						NR	0	
+		7	click_train_40Hz-5						NR	0	
+		7	response		Right	Pressed	137	245	C	8177	
+		1	click_train_40Hz-1						NR	0	
+		1	click_train_40Hz-2						NR	0	
+		1	click_train_40Hz-3						NR	0	
+		1	click_train_40Hz-4						NR	0	
+		1	click_train_40Hz-5						NR	0	
+		1	response		Left	Pressed	137	245	C	8116	
+		5	click_train_40Hz-1						NR	0	
+		5	click_train_40Hz-2						NR	0	
+		5	click_train_40Hz-3						NR	0	
+		5	click_train_40Hz-4						NR	0	
+		5	click_train_40Hz-5						NR	0	
+		5	response		Left	Pressed	137	245	C	8150	
+		8	click_train_40Hz-1						NR	0	
+		8	click_train_40Hz-2						NR	0	
+		8	click_train_42Hz-3						NR	0	
+		8	click_train_40Hz-4						NR	0	
+		8	click_train_40Hz-5						NR	0	
+		8	response		Right	Pressed	137	245	C	8069	
+		4	click_train_40Hz-1						NR	0	
+		4	click_train_40Hz-2						NR	0	
+		4	click_train_40Hz-3						NR	0	
+		4	click_train_40Hz-4						NR	0	
+		4	click_train_40Hz-5						NR	0	
+		4	response		Left	Pressed	137	245	C	8197	
+		6	click_train_42Hz-1						NR	0	
+		6	click_train_40Hz-2						NR	0	
+		6	click_train_40Hz-3						NR	0	
+		6	click_train_40Hz-4						NR	0	
+		6	click_train_40Hz-5						NR	0	
+		6	response		Right	Pressed	137	245	C	8533	
+		10	click_train_40Hz-1						NR	0	
+		10	click_train_40Hz-2						NR	0	
+		10	click_train_40Hz-3						NR	0	
+		10	click_train_40Hz-4						NR	0	
+		10	click_train_42Hz-5						NR	0	
+		10	response		Right	Pressed	137	245	C	8221	
+		3	click_train_40Hz-1						NR	0	
+		3	click_train_40Hz-2						NR	0	
+		3	click_train_40Hz-3						NR	0	
+		3	click_train_40Hz-4						NR	0	
+		3	click_train_40Hz-5						NR	0	
+		3	response		Left	Pressed	137	245	C	8261	
+		2	click_train_40Hz-1						NR	0	
+		2	click_train_40Hz-2						NR	0	
+		2	click_train_40Hz-3						NR	0	
+		2	click_train_40Hz-4						NR	0	
+		2	click_train_40Hz-5						NR	0	
+		2	response		Left	Pressed	137	245	C	7894	
+		9	click_train_40Hz-1						NR	0	
+		9	click_train_40Hz-2						NR	0	
+		9	click_train_40Hz-3						NR	0	
+		9	click_train_42Hz-4						NR	0	
+		9	click_train_40Hz-5						NR	0	
+		9	response		Right	Pressed	137	245	C	8361	
+		1	click_train_40Hz-1						NR	0	
+		1	click_train_40Hz-2						NR	0	
+		1	click_train_40Hz-3						NR	0	
+		1	click_train_40Hz-4						NR	0	
+		1	click_train_40Hz-5						NR	0	
+		1	response		Left	Pressed	137	245	C	8268	
+		2	click_train_40Hz-1						NR	0	
+		2	click_train_40Hz-2						NR	0	
+		2	click_train_40Hz-3						NR	0	
+		2	click_train_40Hz-4						NR	0	
+		2	click_train_40Hz-5						NR	0	
+		2	response		Left	Pressed	137	245	C	8333	
+		4	click_train_40Hz-1						NR	0	
+		4	click_train_40Hz-2						NR	0	
+		4	click_train_40Hz-3						NR	0	
+		4	click_train_40Hz-4						NR	0	
+		4	click_train_40Hz-5						NR	0	
+		4	response		Left	Pressed	137	245	C	8093	
+		9	click_train_40Hz-1						NR	0	
+		9	click_train_40Hz-2						NR	0	
+		9	click_train_40Hz-3						NR	0	
+		9	click_train_42Hz-4						NR	0	
+		9	click_train_40Hz-5						NR	0	
+		9	response		Left	Pressed	137	245	C	8477	
+		8	click_train_40Hz-1						NR	0	
+		8	click_train_40Hz-2						NR	0	
+		8	click_train_42Hz-3						NR	0	
+		8	click_train_40Hz-4						NR	0	
+		8	click_train_40Hz-5						NR	0	
+		8	response		Right	Pressed	137	245	C	8115	
+		6	click_train_42Hz-1						NR	0	
+		6	click_train_40Hz-2						NR	0	
+		6	click_train_40Hz-3						NR	0	
+		6	click_train_40Hz-4						NR	0	
+		6	click_train_40Hz-5						NR	0	
+		6	response		Right	Pressed	137	245	C	7973	
+		10	click_train_40Hz-1						NR	0	
+		10	click_train_40Hz-2						NR	0	
+		10	click_train_40Hz-3						NR	0	
+		10	click_train_40Hz-4						NR	0	
+		10	click_train_42Hz-5						NR	0	
+		10	response		Right	Pressed	137	245	C	8155	
+		7	click_train_40Hz-1						NR	0	
+		7	click_train_42Hz-2						NR	0	
+		7	click_train_40Hz-3						NR	0	
+		7	click_train_40Hz-4						NR	0	
+		7	click_train_40Hz-5						NR	0	
+		7	response		Right	Pressed	137	245	C	7957	
+		5	click_train_40Hz-1						NR	0	
+		5	click_train_40Hz-2						NR	0	
+		5	click_train_40Hz-3						NR	0	
+		5	click_train_40Hz-4						NR	0	
+		5	click_train_40Hz-5						NR	0	
+		5	response		Left	Pressed	137	245	C	8756	
+		3	click_train_40Hz-1						NR	0	
+		3	click_train_40Hz-2						NR	0	
+		3	click_train_40Hz-3						NR	0	
+		3	click_train_40Hz-4						NR	0	
+		3	click_train_40Hz-5						NR	0	
+		3	response		Left	Pressed	137	245	C	8173	
+		5	click_train_40Hz-1						NR	0	
+		5	click_train_40Hz-2						NR	0	
+		5	click_train_40Hz-3						NR	0	
+		5	click_train_40Hz-4						NR	0	
+		5	click_train_40Hz-5						NR	0	
+		5	response		Left	Pressed	137	245	C	7964	
+		4	click_train_40Hz-1						NR	0	
+		4	click_train_40Hz-2						NR	0	
+		4	click_train_40Hz-3						NR	0	
+		4	click_train_40Hz-4						NR	0	
+		4	click_train_40Hz-5						NR	0	
+		4	response		Left	Pressed	137	245	C	8398	
+		3	click_train_40Hz-1						NR	0	
+		3	click_train_40Hz-2						NR	0	
+		3	click_train_40Hz-3						NR	0	
+		3	click_train_40Hz-4						NR	0	
+		3	click_train_40Hz-5						NR	0	
+		3	response		Left	Pressed	137	245	C	8070	
+		10	click_train_40Hz-1						NR	0	
+		10	click_train_40Hz-2						NR	0	
+		10	click_train_40Hz-3						NR	0	
+		10	click_train_40Hz-4						NR	0	
+		10	click_train_42Hz-5						NR	0	
+		10	response		Right	Pressed	137	245	C	8187	
+		1	click_train_40Hz-1						NR	0	
+		1	click_train_40Hz-2						NR	0	
+		1	click_train_40Hz-3						NR	0	
+		1	click_train_40Hz-4						NR	0	
+		1	click_train_40Hz-5						NR	0	
+		1	response		Left	Pressed	137	245	C	7997	
+		6	click_train_42Hz-1						NR	0	
+		6	click_train_40Hz-2						NR	0	
+		6	click_train_40Hz-3						NR	0	
+		6	click_train_40Hz-4						NR	0	
+		6	click_train_40Hz-5						NR	0	
+		6	response		Right	Pressed	137	245	C	8724	
+		8	click_train_40Hz-1						NR	0	
+		8	click_train_40Hz-2						NR	0	
+		8	click_train_42Hz-3						NR	0	
+		8	click_train_40Hz-4						NR	0	
+		8	click_train_40Hz-5						NR	0	
+		8	response		Right	Pressed	137	245	C	8149	
+		2	click_train_40Hz-1						NR	0	
+		2	click_train_40Hz-2						NR	0	
+		2	click_train_40Hz-3						NR	0	
+		2	click_train_40Hz-4						NR	0	
+		2	click_train_40Hz-5						NR	0	
+		2	response		Left	Pressed	137	245	C	7862	
+		9	click_train_40Hz-1						NR	0	
+		9	click_train_40Hz-2						NR	0	
+		9	click_train_40Hz-3						NR	0	
+		9	click_train_42Hz-4						NR	0	
+		9	click_train_40Hz-5						NR	0	
+		9	response		Right	Pressed	137	245	C	8300	
+		7	click_train_40Hz-1						NR	0	
+		7	click_train_42Hz-2						NR	0	
+		7	click_train_40Hz-3						NR	0	
+		7	click_train_40Hz-4						NR	0	
+		7	click_train_40Hz-5						NR	0	
+		7	response		Right	Pressed	137	245	C	7998	
