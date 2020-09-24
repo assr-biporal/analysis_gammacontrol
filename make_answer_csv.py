@@ -29,10 +29,10 @@ def read_log_txt(path: pathlib.Path, participant_id: str, block: int):
     df.loc[df.session_type>5, 'session_type_name'] = 'deviant'
 
     #set Hit or False
-    df.loc[(df.session_type<=5) & (df.response=='Left'),'outcome'] = 'Hit'
-    df.loc[(df.session_type<=5) & (df.response=='Right'),'outcome'] = 'Miss'
-    df.loc[(df.session_type>5) & (df.response=='Left'),'outcome'] = 'False alarm'
-    df.loc[(df.session_type>5) & (df.response=='Right'),'outcome'] = 'Correct reject'
+    df.loc[(df.session_type<=5) & (df.response=='Left'),'outcome'] = 'Correct reject'
+    df.loc[(df.session_type<=5) & (df.response=='Right'),'outcome'] = 'False alarm'
+    df.loc[(df.session_type>5) & (df.response=='Left'),'outcome'] = 'Miss'
+    df.loc[(df.session_type>5) & (df.response=='Right'),'outcome'] = 'Hit'
 
     return df[df.response.notna()]
 
