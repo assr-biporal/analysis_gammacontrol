@@ -1,7 +1,7 @@
 import pathlib
 import pandas
 
-def read_log_txt(path: pathlib.Path, participant_id: str, block: int):
+def read_log_txt(path: pathlib.Path, **keyargs):
     df = pandas.read_csv(
         path,
         delimiter='\t',
@@ -21,8 +21,9 @@ def read_log_txt(path: pathlib.Path, participant_id: str, block: int):
             'reaction_time',
         ]
     )
-    df['participant_id'] = participant_id
-    df['block'] = block
+    for key, item in keyargs.items():
+        df[key] = item
+        print(key, item)
 
     # set session types name
     df.loc[df.session_type<=5, 'session_type_name'] = 'standard'
@@ -51,11 +52,14 @@ if __name__ == '__main__':
         if pid_date_path.is_file():
             continue
         pid_date = pid_date_path.stem
-        pid = pid_date.split('_')[0]
+        pid, date = pid_date.split('_')
+        print(pid, date)
         df = read_log_txt(
             pid_date_path/'42_active_{}.txt'.format(i+1),
-            pid,
-            i+1
+            participant_id = pid,
+            experiment_date = date,
+            stem = pid_date,
+            block = str(i+1)
         )
         log_df_list.append(df)
 
